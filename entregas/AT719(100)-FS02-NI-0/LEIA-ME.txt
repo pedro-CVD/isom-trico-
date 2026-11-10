@@ -1,7 +1,8 @@
 AT719(100)-FS02-NI-0 - revisão R4
 
 Arquivos atuais:
-ISO_AT719(100)-FS02-NI-0_R4.vsdx - desenho Visio editável
+ISO_AT719(100)-FS02-NI-0_R4.vsd - arquivo principal Visio editável, no formato do exemplo fornecido
+ISO_AT719(100)-FS02-NI-0_R4.vsdx - versão moderna Visio editável
 ISO_AT719(100)-FS02-NI-0_R4.pdf - visualização correspondente
 
 Alterações solicitadas:
@@ -19,6 +20,6 @@ P&ID: 7070-PBBAOAO-035
 Data do desenho: 08/10/2026
 Rev. no carimbo: 0
 
-Verificação: estrutura VSDX conforme o esquema Microsoft Visio, integridade das relações do pacote, reabertura no LibreOffice Draw e exportação para uma folha PDF A4 paisagem. A abertura no Microsoft Visio não foi testada neste ambiente. A exportação para VSD binário não foi concluída; esta revisão é entregue em VSDX.
+Verificação: VSD binário reaberto no LibreOffice Draw, exportação para uma folha PDF A4 paisagem e conversão de conferência VSD -> VSDX com os 220 elementos independentes preservados, incluindo as 91 peças da tubulação e as 11 setas nativas. O rodapé foi ajustado em duas linhas dentro do carimbo. A abertura no Microsoft Visio não foi testada neste ambiente.
 
 A R3 foi preservada para referência; sua tubulação usa imagens e não contém os ajustes da R4.
