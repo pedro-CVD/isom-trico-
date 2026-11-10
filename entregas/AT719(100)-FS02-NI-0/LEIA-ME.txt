@@ -1,25 +1,23 @@
-AT719(100)-FS02-NI-0 - revisão R4
+AT719(100)-FS02-NI-0 - revisão R5
 
-Arquivos atuais:
-ISO_AT719(100)-FS02-NI-0_R4.vsd - arquivo principal Visio editável, no formato do exemplo fornecido
-ISO_AT719(100)-FS02-NI-0_R4.vsdx - versão moderna Visio editável
-ISO_AT719(100)-FS02-NI-0_R4.pdf - visualização correspondente
+Arquivo principal: ISO_AT719(100)-FS02-NI-0_R5.vsd
+Versão moderna editável: ISO_AT719(100)-FS02-NI-0_R5.vsdx
+PDF correspondente: ISO_AT719(100)-FS02-NI-0_R5.pdf
+Prévia ampliada da junta: detalhe_junta_R5.png
 
-Alterações solicitadas:
-- Setas de medição como linhas nativas com extremidades ajustáveis.
-- Continuação A sobre a extremidade do tubo, com linha pontilhada vertical.
-- Símbolo de mudança de área preto, com dois traços opostos, acima e abaixo.
-- Folha com 220 elementos independentes: tubulações, conexões, setas, balões, textos, moldura e carimbo.
-- As 91 peças da tubulação são formas nativas. O logotipo é uma imagem independente.
-- Sem agrupamento da folha. Balões e setas podem ser movidos separadamente.
+R5: melhoria localizada do acabamento da junta indicada pelo usuário.
+- Porcas hexagonais com proporções mais compactas e definidas.
+- Parafusos, faces dos aros e bordas mais legíveis.
+- Colares com transição suave para o diâmetro do tubo.
+- Detalhes nativos vetoriais, com cada peça ajustável individualmente.
 
-Edição: selecione cada objeto para mover ou redimensionar. Nas setas, arraste as extremidades para alterar comprimento e direção. Para editar um número ou campo, dê duplo clique no texto.
+A folha mantém 220 elementos independentes e nenhuma agrupação geral. A máscara R4, os dados do carimbo, as 11 chamadas e todo o percurso fora da junta foram preservados. As versões anteriores foram mantidas.
 
 Sonda: Deepwater Corcovado
 P&ID: 7070-PBBAOAO-035
-Data do desenho: 08/10/2026
+Data da fonte: 08/10/2026
 Rev. no carimbo: 0
 
-Verificação: VSD binário reaberto no LibreOffice Draw, exportação para uma folha PDF A4 paisagem e conversão de conferência VSD -> VSDX com os 220 elementos independentes preservados, incluindo as 91 peças da tubulação e as 11 setas nativas. O rodapé foi ajustado em duas linhas dentro do carimbo. A abertura no Microsoft Visio não foi testada neste ambiente.
+Conferência: esquema Microsoft Visio e integridade do pacote VSDX; reabertura do VSD binário no LibreOffice; uma folha A4 paisagem; comparação com a R4 sem alterações de pixels fora da região da junta. A abertura direta no Microsoft Visio não foi testada neste ambiente.
 
-A R3 foi preservada para referência; sua tubulação usa imagens e não contém os ajustes da R4.
+A R4 continua registrada como máscara de referência para os próximos desenhos; esta R5 registra a correção localizada solicitada na junta.
