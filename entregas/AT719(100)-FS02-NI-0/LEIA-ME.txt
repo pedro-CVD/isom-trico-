@@ -1,0 +1,13 @@
+AT719(100)-FS02-NI-0 - entrega R3
+
+Arquivo principal: ISO_AT719(100)-FS02-NI-0_R3.vsd
+Formato binário Visio (.vsd), reconstruído do zero a partir do desenho.
+PDF correspondente: ISO_AT719(100)-FS02-NI-0_R3.pdf
+
+Sonda: Deepwater Corcovado
+P&ID: 7070-PBBAOAO-035
+
+Verificação: VSD reaberto no LibreOffice Draw e exportado para PDF; uma folha A4 paisagem, 11 chamadas e dados do carimbo conferidos. A abertura no Microsoft Visio ainda depende de confirmação no computador do usuário.
+
+Os textos e as chamadas são objetos editáveis. A arte da tubulação e elementos fixos da máscara são imagens.
+As versões anteriores estão em historico.
